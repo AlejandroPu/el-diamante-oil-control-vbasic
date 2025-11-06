@@ -49,7 +49,7 @@ Each button triggers a specific macro corresponding to one part of the workflow
 
 The following image shows the full stack of modules and a portion of the code of one of them:
 
-![Code fragment – module `c_arreglaFuente`](images/03-script-macros.png)
+![Code fragment – module 'c_arreglaFuente'](images/03-script-macros.png)
 
 ---
 
