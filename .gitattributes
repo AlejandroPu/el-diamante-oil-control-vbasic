@@ -1,0 +1,10 @@
+# VBA
+*.bas text diff
+*.cls text diff
+*.frm text diff
+
+# Forms include a separate binary file (.frx)
+*.frx binary
+
+# Enforce consistent line endings across operating systems
+* text=auto
