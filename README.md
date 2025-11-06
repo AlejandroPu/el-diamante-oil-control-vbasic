@@ -2,6 +2,8 @@
 
 This project was developed around **August 2019**, during my remote work at **Transportes El Diamante** from Constitución, Chile; with the goal of **automating the verification of diesel fuel usage** between the loading records from **COPEC** and the information provided by the **OnlineAVL** system (GPS Chile).
 
+When I began working at the company in Constitución, there were only eight trucks performing this repetitive task. About three years after I started studying Ingeniería Civil Informática, the fleet had grown to more than fifteen trucks. That’s when I started thinking about creating a solution to save time for my studies.
+
 ---
 
 ## 🧠 Context
