@@ -17,8 +17,8 @@ Main project flow:
 2. Retrieve fuel consumption records from the OnlineAVL system.  
 3. Analyze, cross-check, and report discrepancies between both datasets.  
 
-The earliest stage of this project (prior to 2015) started with **AutoHotKey scripts**, which are published separately (soon):
-👉 [`el-diamante-oil-control-ahk`](https://github.com/tuusuario/el-diamante-oil-control-ahk)
+The earliest stage of this project (prior to 2015) started with **AutoHotKey scripts**, which are published separately:
+👉 [`el-diamante-oil-control-ahk`](https://github.com/AlejandroPu/el-diamante-oil-control-ahk)
 
 ---
 
